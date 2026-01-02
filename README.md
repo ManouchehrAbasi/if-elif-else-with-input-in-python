@@ -27,6 +27,7 @@ else:
 
 
 
+
 output1:
 
 Enter your weight:55
@@ -37,6 +38,7 @@ You need to make changes in your lifestyle.
 
 
 
+
 output2:
 
 Enter your weight:95
@@ -44,6 +46,7 @@ Enter your weight:95
 95 kg means: you are fat!
 
 You must exercise.
+
 
 
 
